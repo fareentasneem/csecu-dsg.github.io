@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | CSECU-DSG</title><link>https://cardiffnlp.github.io/project/</link><atom:link href="https://cardiffnlp.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2023 CSECU-DSG</copyright><lastBuildDate>Fri, 01 Sep 2023 21:25:57 +0000</lastBuildDate><image><url>https://cardiffnlp.github.io/media/logo_huf9fbccc78191c11f012ac2550814c756_32514_300x300_fit_lanczos_3.png</url><title>Projects</title><link>https://cardiffnlp.github.io/project/</link></image><item><title>Causality Extraction</title><link>https://cardiffnlp.github.io/project/causalityextraction/</link><pubDate>Tue, 01 Dec 2020 21:25:57 +0000</pubDate><guid>https://cardiffnlp.github.io/project/causalityextraction/</guid><description>&lt;hr>
+&lt;p>Publications/Working:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Abdul Aziz, Afrin Sultana, Nabila Ayman Nishat, Md. Akram Hossain, Abu Nowshed Chy (2020). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">Feature Fusion with Hand-crafted and Transfer Learning Embeddings for Cause-Effect Relation Extraction.&lt;/a> FIRE 2020&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2022). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">CSECU-DSG@ Causal News Corpus 2022: Fusion of RoBERTa Transformers Variants for Causal Event Classification.&lt;/a> CASE@EMNLP 2022&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Md. Akram Hossain, Abdul Aziz, Abu Nowshed Chy (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">CSECU-DSG@ Causal News Corpus 2023: Leveraging RoBERTa and DeBERTa Transformer Model with Contrastive Learning for Causal Event Classification.&lt;/a> CASE@RANLP 2023&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr></description></item><item><title>Multimodal and Multitask NLP</title><link>https://cardiffnlp.github.io/project/multimodal/</link><pubDate>Fri, 01 Sep 2023 21:25:57 +0000</pubDate><guid>https://cardiffnlp.github.io/project/multimodal/</guid><description>&lt;hr>
+&lt;p>Publications/Working:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy, Md Zia Ullah (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">Multimodal Complaint Detection Using Sentiment and Emotion-Aided Multitask Contrastive Learning Model.&lt;/a> NAACL 2024&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy, Md Zia Ullah (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">Sentiment and Emotion Analysis Using Transformer-based Multi-task Contrastive Learning Model on Code-mixed Tweets.&lt;/a> ECIR 2024&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Nihad Karim Chowdhury, Muhammad Ashad Kabir, Abu Nowshed Chy, Md. Jawad Siddique (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">MMTF-DES: A Fusion of Multimodal Transformer Models for Desire, Emotion, and Sentiment Analysis of Social Media Data.&lt;/a> ArXiv Preprint 2023&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">CSECU-DSG at CheckThat! 2023: transformer-based fusion approach for multimodal and multigenre check-worthiness.&lt;/a> CLEF 2023&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">CSECU-DSG@ Multimodal Hate Speech Event Detection 2023: Transformer-based Multimodal Hierarchical Fusion Model For Multimodal Hate Speech Detection.&lt;/a> CASE@RANLP 2023&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr></description></item><item><title>Named Entity Recognition (NER) and Relation Extraction</title><link>https://cardiffnlp.github.io/project/ner/</link><pubDate>Fri, 01 Jul 2022 21:25:57 +0000</pubDate><guid>https://cardiffnlp.github.io/project/ner/</guid><description>&lt;hr>
+&lt;p>Publications:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Md. Akram Hossain, Muhammad Anwarul Azim, Abu Nowshed Chy, Mohammad Khairul Islam, Md Zia Ullah, Abdul Aziz (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">BiGCAT: An Integrated Graph Neural Network Model for Financial Named Entity Recognition.&lt;/a> ECIR 2024&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">CSECU-DSG at SemEval-2023 Task 4: Fine-tuning DeBERTa Transformer Model with Cross-fold Training and Multi-sample Dropout for Human Values Identification.&lt;/a> SemEval 2023&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2022). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">CSECU-DSG at SemEval-2022 Task 11: Identifying the Multilingual Complex Named Entity in Text Using Stacked Embeddings and Transformer based Approach.&lt;/a> SemEval 2022&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2022). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">Enhancing the DeBERTa Transformers Model for Classifying Sentences from Biomedical Abstracts.&lt;/a> ALTA-2022&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr></description></item><item><title>Multilingual and Low Resource NLP</title><link>https://cardiffnlp.github.io/project/multilingual/</link><pubDate>Fri, 01 Jul 2022 21:25:56 +0000</pubDate><guid>https://cardiffnlp.github.io/project/multilingual/</guid><description>&lt;hr>
+&lt;p>Publications/Working:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy, Md Zia Ullah (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">Sentiment and Emotion Analysis Using Transformer-based Multi-task Contrastive Learning Model on Code-mixed Tweets.&lt;/a> ECIR 2024&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nabila Ayman Nishat, Md. Akram Hossain, Abdul Aziz, Rokan Uddin Faruqui, Abu Nowshed Chy (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">BengaliLCP: A Dataset for Lexical Complexity Prediction in the Bengali Texts.&lt;/a> LREC-COLLING 2024&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">CSECU-DSG at CheckThat! 2023: transformer-based fusion approach for multimodal and multigenre check-worthiness.&lt;/a> CLEF 2023&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2022). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">CSECU-DSG at SemEval-2022 Task 11: Identifying the Multilingual Complex Named Entity in Text Using Stacked Embeddings and Transformer based Approach.&lt;/a> SemEval 2022&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2022). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">CSECU-DSG at SemEval-2022 Task 3: Investigating the Taxonomic Relationship Between Two Arguments using Fusion of Multilingual Transformer Models.&lt;/a> SemEval 2022&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr></description></item><item><title>Lexical Complexity Prediction (LCP)</title><link>https://cardiffnlp.github.io/project/lexicalsemantics/</link><pubDate>Wed, 01 Dec 2021 21:25:56 +0000</pubDate><guid>https://cardiffnlp.github.io/project/lexicalsemantics/</guid><description>&lt;hr>
+&lt;p>Publications/Working:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Nabila Ayman Nishat, Md. Akram Hossain, Abdul Aziz, Rokan Uddin Faruqui, Abu Nowshed Chy (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">BengaliLCP: A Dataset for Lexical Complexity Prediction in the Bengali Texts.&lt;/a> LREC-COLLING 2024&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2021). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">CSECU-DSG at SemEval-2021 Task 1: Fusion of Transformer Models for Lexical Complexity Prediction.&lt;/a> SemEval 2021&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr></description></item></channel></rss>

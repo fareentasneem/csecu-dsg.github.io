@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ls | CSECU-DSG</title><link>https://cardiffnlp.github.io/tag/ls/</link><atom:link href="https://cardiffnlp.github.io/tag/ls/index.xml" rel="self" type="application/rss+xml"/><description>ls</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© 2023 CSECU-DSG</copyright><lastBuildDate>Wed, 01 Dec 2021 21:25:56 +0000</lastBuildDate><image><url>https://cardiffnlp.github.io/media/logo_huf9fbccc78191c11f012ac2550814c756_32514_300x300_fit_lanczos_3.png</url><title>ls</title><link>https://cardiffnlp.github.io/tag/ls/</link></image><item><title>Lexical Complexity Prediction (LCP)</title><link>https://cardiffnlp.github.io/project/lexicalsemantics/</link><pubDate>Wed, 01 Dec 2021 21:25:56 +0000</pubDate><guid>https://cardiffnlp.github.io/project/lexicalsemantics/</guid><description>&lt;hr>
+&lt;p>Publications/Working:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Nabila Ayman Nishat, Md. Akram Hossain, Abdul Aziz, Rokan Uddin Faruqui, Abu Nowshed Chy (2023). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">BengaliLCP: A Dataset for Lexical Complexity Prediction in the Bengali Texts.&lt;/a> LREC-COLLING 2024&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2021). &lt;a href="http://csecu-dsg.github.io/publication/" target="_blank" rel="noopener">CSECU-DSG at SemEval-2021 Task 1: Fusion of Transformer Models for Lexical Complexity Prediction.&lt;/a> SemEval 2021&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr></description></item></channel></rss>
